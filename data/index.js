@@ -532,50 +532,50 @@ export const ServiceOneData = [
   },
 ];
 
-import projectImage1 from "@/images/raz/coza.jpg";
-import projectImage2 from "@/images/raz/mayorkun.jpg";
-import projectImage3 from "@/images/raz/hair_flip.jpg";
-import projectImage4 from "@/images/project-1-4.jpg";
-import projectImage5 from "@/images/project-1-5.jpg";
-import projectImage6 from "@/images/project-1-6.jpg";
-export const ProjectOneData = [
-  {
-    image: projectImage1,
-    category: "printing",
-    title: "COZA 12 Days Of Glory",
-    url: "/project-details",
-  },
-  {
-    image: projectImage2,
-    category: "printing",
-    title: "Mayorkun Back in Office Concert Abuja",
-    url: "/project-details",
-  },
-  {
-    image: projectImage3,
-    category: "printing",
-    title: "Hair Flip",
-    url: "/project-details",
-  },
-  {
-    image: projectImage4,
-    category: "printing",
-    title: "Hair Flip",
-    url: "/project-details",
-  },
-  {
-    image: projectImage5,
-    category: "printing",
-    title: "Book Copy",
-    url: "/project-details",
-  },
-  {
-    image: projectImage6,
-    category: "printing",
-    title: "C Creative Mess",
-    url: "/project-details",
-  },
-];
+// import projectImage1 from "@/images/raz/coza.jpg";
+// import projectImage2 from "@/images/raz/mayorkun.jpg";
+// import projectImage3 from "@/images/raz/hair_flip.jpg";
+// import projectImage4 from "@/images/project-1-4.jpg";
+// import projectImage5 from "@/images/project-1-5.jpg";
+// import projectImage6 from "@/images/project-1-6.jpg";
+// export const ProjectOneData = [
+//   {
+//     image: projectImage1,
+//     category: "printing",
+//     title: "COZA 12 Days Of Glory",
+//     url: "/project-details",
+//   },
+//   {
+//     image: projectImage2,
+//     category: "printing",
+//     title: "Mayorkun Back in Office Concert Abuja",
+//     url: "/project-details",
+//   },
+//   {
+//     image: projectImage3,
+//     category: "printing",
+//     title: "Hair Flip",
+//     url: "/project-details",
+//   },
+//   {
+//     image: projectImage4,
+//     category: "printing",
+//     title: "Hair Flip",
+//     url: "/project-details",
+//   },
+//   {
+//     image: projectImage5,
+//     category: "printing",
+//     title: "Book Copy",
+//     url: "/project-details",
+//   },
+//   {
+//     image: projectImage6,
+//     category: "printing",
+//     title: "C Creative Mess",
+//     url: "/project-details",
+//   },
+// ];
 
 import errorImage from "@/images/404-text.png";
 export const errorData = {
