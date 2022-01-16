@@ -1,7 +1,53 @@
 import React from "react";
-import { ProjectOneData } from "@/data";
+// import { ProjectOneData } from "@/data";
 import { Col, Row } from "react-bootstrap";
 import ProjectCard from "./project-card";
+
+import projectImage1 from "../assets/img/raz/coza.jpg";
+import projectImage2 from "../assets/img/raz/mayorkun.jpg";
+import projectImage3 from "../assets/img/raz/hair_flip.jpg";
+import projectImage4 from "../assets/img/raz/coza.jpg";
+import projectImage5 from "../assets/img/raz/mayorkun.jpg";
+import projectImage6 from "../assets/img/raz/hair_flip.jpg";
+
+const ProjectOneData = [
+  {
+    image: projectImage1,
+    category: "printing",
+    title: "COZA 12 Days Of Glory",
+    url: "/project-details",
+  },
+  {
+    image: projectImage2,
+    category: "printing",
+    title: "Mayorkun Back in Office Concert Abuja",
+    url: "/project-details",
+  },
+  {
+    image: projectImage3,
+    category: "printing",
+    title: "Hair Flip",
+    url: "/project-details",
+  },
+  {
+    image: projectImage4,
+    category: "printing",
+    title: "COZA 12 Days Of Glory",
+    url: "/project-details",
+  },
+  {
+    image: projectImage5,
+    category: "printing",
+    title: "Mayorkun Back in Office Concert Abuja",
+    url: "/project-details",
+  },
+  {
+    image: projectImage6,
+    category: "printing",
+    title: "Hair Flip",
+    url: "/project-details",
+  },
+];
 
 const RecentProject = () => {
   return (
